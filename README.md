@@ -6,7 +6,6 @@ Hey. I'm Oliver. I'm from the UK. I'm a 13-year-old self-taught programmer, who 
 ## Projects
 
 - Currently working on **Qubit**, a Discord bot written in Python. Head [here](https://github.com/olxver/Qubit) for more information
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olxver)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
