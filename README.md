@@ -5,6 +5,6 @@ Hey. I'm a 13-year-old self-taught programmer. I am fluent in Python, JavaScript
 
 ## Contact
 
-Feel free to reach out to me on Discord (olxver#9999)
+Feel free to reach out to me on Discord (olxver)
 
 
